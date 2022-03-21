@@ -1,0 +1,1682 @@
+2022-02-28 14:00:22,387 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:00:22,814 INFO  [BaseTest] Username entered 
+2022-02-28 14:00:22,901 INFO  [BaseTest] password entered 
+2022-02-28 14:00:24,803 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:00:28,443 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:00:33,624 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:00:33,871 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:00:34,573 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:00:34,817 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:00:35,717 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:00:35,719 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:00:36,381 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:00:36,856 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:00:37,009 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:00:37,010 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:00:37,288 INFO  [BaseTest] File Link is clciked 
+2022-02-28 14:00:37,367 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 14:00:37,525 ERROR [BaseTest] org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 999c2b95d5e3d8da28957fbd7f3ba78c 
+2022-02-28 14:00:37,534 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:11:18,156 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:11:18,465 INFO  [BaseTest] Username entered 
+2022-02-28 14:11:18,599 INFO  [BaseTest] password entered 
+2022-02-28 14:11:18,773 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:11:24,080 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:11:27,769 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:11:27,840 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:11:28,675 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:11:29,076 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:11:29,949 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:11:29,950 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:11:30,511 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:11:31,057 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:12:21,233 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@title='Rich Text Editor, publisherRichTextEditor']' (tried for 50 second(s) with 500 milliseconds interval) 
+2022-02-28 14:12:21,239 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:14:04,503 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:14:04,828 INFO  [BaseTest] Username entered 
+2022-02-28 14:14:04,962 INFO  [BaseTest] password entered 
+2022-02-28 14:14:07,590 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:14:12,672 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:14:15,347 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:14:15,872 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:14:16,365 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:14:16,686 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:14:17,478 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:14:17,478 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:14:18,054 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:14:18,518 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:14:18,664 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:14:18,664 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:14:18,971 INFO  [BaseTest] File Link is clciked 
+2022-02-28 14:14:19,057 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51105}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 69c443845361bfa2e41c478423f99203 
+2022-02-28 14:14:19,062 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:17:25,139 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:17:25,356 INFO  [BaseTest] Username entered 
+2022-02-28 14:17:25,477 INFO  [BaseTest] password entered 
+2022-02-28 14:17:25,585 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:17:30,884 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:17:33,096 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:17:33,525 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:17:34,075 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:17:34,242 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:17:35,037 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:17:35,039 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:17:35,630 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:17:36,139 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:17:36,289 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:17:36,289 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:17:36,670 INFO  [BaseTest] File Link is clciked 
+2022-02-28 14:17:36,754 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 14:17:36,912 INFO  [BaseTest] select file from computer 
+2022-02-28 14:17:39,140 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:17:39,140 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:17:39,300 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:32:24,894 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:32:25,239 INFO  [BaseTest] Username entered 
+2022-02-28 14:32:25,398 INFO  [BaseTest] password entered 
+2022-02-28 14:32:27,347 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:32:30,450 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:32:33,597 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:32:33,677 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:32:34,347 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:32:34,590 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:32:35,368 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:32:35,369 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:32:35,953 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:32:36,416 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:32:36,576 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:32:36,577 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:32:36,870 INFO  [BaseTest] File Link is clciked 
+2022-02-28 14:32:36,930 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 14:32:37,028 INFO  [BaseTest] select file from computer 
+2022-02-28 14:32:39,183 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:32:39,184 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:32:39,478 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 14:32:40,504 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:43:23,235 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:43:23,389 INFO  [BaseTest] Username entered 
+2022-02-28 14:43:23,461 INFO  [BaseTest] password entered 
+2022-02-28 14:43:25,376 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:43:29,015 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:43:31,096 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:43:31,198 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:43:31,943 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:43:32,321 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:43:33,101 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:43:33,101 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:43:33,654 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:43:34,188 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:43:34,359 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:43:34,359 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:43:34,718 INFO  [BaseTest] File Link is clciked 
+2022-02-28 14:43:34,860 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 14:43:34,994 INFO  [BaseTest] select file from computer 
+2022-02-28 14:43:37,225 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:43:37,225 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:43:37,548 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 14:43:38,640 ERROR [BaseTest] org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="javascript:void(0);" onblur="SfdcApp.ChatterProfilePhotoSection.showHideBadgeAndPhotoLinks(false)" id="uploadLink" onfocus="SfdcApp.ChatterProfilePhotoSection.showHideBadgeAndPhotoLinks(true)" data-uidsfdc="134">...</a> is not clickable at point (98, 418). Other element would receive the click: <img src="https://tecarch-dev-ed--c.documentforce.com/profilephoto/7298c000000EWrN/F" alt="Ramya Deepika Kopp" class="chatter-photo" title="Ramya Deepika Kopp">
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53084}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6e3181e451e902ea22765c5eb3775ac 
+2022-02-28 14:43:38,645 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:46:05,797 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:46:06,475 INFO  [BaseTest] Username entered 
+2022-02-28 14:46:06,599 INFO  [BaseTest] password entered 
+2022-02-28 14:46:08,729 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:46:12,437 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:46:14,512 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:46:14,622 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:46:15,736 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:46:15,987 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:46:16,820 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:46:16,820 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:46:17,419 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:46:17,963 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:46:18,112 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:46:18,113 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:46:18,419 INFO  [BaseTest] File Link is clciked 
+2022-02-28 14:46:18,482 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53407}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b952b292b4fccec63affb515fca7d40b 
+2022-02-28 14:46:18,486 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:47:33,403 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:47:33,761 INFO  [BaseTest] Username entered 
+2022-02-28 14:47:33,908 INFO  [BaseTest] password entered 
+2022-02-28 14:47:35,698 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:47:38,582 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:47:41,830 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:47:42,346 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:47:42,856 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:47:43,127 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:47:43,948 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:47:43,950 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:47:44,664 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:47:45,200 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:47:45,347 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:47:45,347 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:47:45,635 INFO  [BaseTest] File Link is clciked 
+2022-02-28 14:47:47,701 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53656}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c7dd29bb19e6def1d70d9e48ff3db582 
+2022-02-28 14:47:47,705 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:51:05,808 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:51:06,101 INFO  [BaseTest] Username entered 
+2022-02-28 14:51:06,239 INFO  [BaseTest] password entered 
+2022-02-28 14:51:06,384 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:51:12,975 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:51:15,629 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:51:15,724 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:51:16,343 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:51:16,757 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:51:17,580 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:51:17,581 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:51:18,191 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:51:18,729 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:51:18,877 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:51:18,877 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:51:19,215 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 14:51:19,803 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 14:51:19,879 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 14:51:19,918 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='j_id0:uploadFileForm:uploadInputFile']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54105}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a0739c4f5482e55942385815fc4d7b52
+*** Element info: {Using=xpath, value=//input[@id='j_id0:uploadFileForm:uploadInputFile']} 
+2022-02-28 14:51:19,926 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:59:35,528 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 14:59:35,808 INFO  [BaseTest] Username entered 
+2022-02-28 14:59:35,996 INFO  [BaseTest] password entered 
+2022-02-28 14:59:37,807 INFO  [BaseTest] Login button clicked 
+2022-02-28 14:59:40,647 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 14:59:42,417 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 14:59:42,478 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 14:59:43,250 INFO  [BaseTest] About tab is clicked 
+2022-02-28 14:59:43,500 INFO  [BaseTest] Lastname is changed 
+2022-02-28 14:59:44,198 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 14:59:44,199 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:59:44,768 INFO  [BaseTest] Post Link clicked 
+2022-02-28 14:59:45,135 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 14:59:45,285 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 14:59:45,285 INFO  [BaseTest] Test Log Message 
+2022-02-28 14:59:45,559 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 14:59:45,714 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 14:59:45,759 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 14:59:45,786 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='j_id0:uploadFileForm:uploadInputFile']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55036}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96bb39cf8ec42162abd5b8b34874fc85
+*** Element info: {Using=xpath, value=//input[@id='j_id0:uploadFileForm:uploadInputFile']} 
+2022-02-28 14:59:45,793 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:02:30,865 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:02:31,222 INFO  [BaseTest] Username entered 
+2022-02-28 15:02:31,375 INFO  [BaseTest] password entered 
+2022-02-28 15:02:33,269 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:02:35,950 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:02:38,132 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:02:38,201 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:02:38,865 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:02:39,260 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:02:39,990 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:02:39,990 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:02:40,509 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:02:40,964 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:02:41,088 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:02:41,088 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:02:41,366 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:02:41,489 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:02:41,801 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:02:41,846 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:02:41,851 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:08:21,241 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:08:21,528 INFO  [BaseTest] Username entered 
+2022-02-28 15:08:21,670 INFO  [BaseTest] password entered 
+2022-02-28 15:08:21,833 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:08:26,007 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:08:28,262 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:08:28,321 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:08:28,977 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:08:29,373 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:08:30,099 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:08:30,100 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:08:30,578 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:08:30,995 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:08:31,141 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:08:31,141 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:08:31,436 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:08:31,565 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:08:32,002 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:08:32,045 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:08:32,084 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a068c0692d6ffd26cb2e15d2d3d46560 
+2022-02-28 15:08:32,087 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:09:58,925 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:09:59,241 INFO  [BaseTest] Username entered 
+2022-02-28 15:09:59,414 INFO  [BaseTest] password entered 
+2022-02-28 15:10:02,115 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:10:06,918 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:10:08,602 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:10:08,668 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:10:09,419 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:10:09,700 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:10:10,454 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:10:10,455 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:10:10,991 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:10:11,348 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:10:11,467 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:10:11,467 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:10:11,739 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:10:11,866 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:10:12,398 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:10:12,443 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:10:13,487 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 15:10:13,493 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:19:44,386 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:19:44,714 INFO  [BaseTest] Username entered 
+2022-02-28 15:19:44,860 INFO  [BaseTest] password entered 
+2022-02-28 15:19:46,841 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:19:49,901 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:19:52,333 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:19:52,503 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:19:52,979 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:19:53,142 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:19:53,861 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:19:53,861 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:19:54,385 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:19:54,788 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:19:54,910 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:19:54,910 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:19:55,187 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:19:55,946 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:19:56,003 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:19:56,074 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:19:56,658 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 15:19:56,673 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#uploadPhotoContentId"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56922}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c26c39c624190102b550dbc72250afd
+*** Element info: {Using=id, value=uploadPhotoContentId} 
+2022-02-28 15:19:56,676 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:21:49,213 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:21:49,381 INFO  [BaseTest] Username entered 
+2022-02-28 15:21:49,596 INFO  [BaseTest] password entered 
+2022-02-28 15:21:51,537 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:21:54,159 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:21:56,505 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:21:56,860 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:21:57,308 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:21:57,487 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:21:58,206 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:21:58,207 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:21:58,719 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:21:59,114 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:21:59,244 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:21:59,245 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:21:59,577 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:22:00,235 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:22:00,281 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:22:00,332 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:22:01,725 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 15:22:49,254 ERROR [BaseTest] org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c6d082199c854908b1272fa652f39c5
+*** Element info: {Using=id, value=uploadPhotoContentId} 
+2022-02-28 15:22:49,263 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:23:18,205 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:23:18,391 INFO  [BaseTest] Username entered 
+2022-02-28 15:23:18,539 INFO  [BaseTest] password entered 
+2022-02-28 15:23:18,720 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:23:23,835 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:23:25,510 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:23:25,583 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:23:26,228 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:23:26,576 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:23:27,605 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:23:27,605 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:23:28,100 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:23:28,538 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:23:28,675 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:23:28,675 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:23:28,974 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:23:29,474 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:23:29,543 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:23:29,602 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:23:30,069 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 15:24:20,209 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: uploadPhotoContentId' (tried for 50 second(s) with 500 milliseconds interval) 
+2022-02-28 15:24:20,219 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:26:56,320 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:26:56,584 INFO  [BaseTest] Username entered 
+2022-02-28 15:26:56,770 INFO  [BaseTest] password entered 
+2022-02-28 15:26:59,016 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:27:01,856 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:27:04,039 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:27:04,316 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:27:04,817 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:27:04,972 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:27:05,694 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:27:05,695 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:27:06,345 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:27:06,740 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:27:06,866 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:27:06,866 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:27:07,147 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:27:07,735 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:27:07,819 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:27:07,888 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:27:08,419 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 15:28:48,741 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: uploadPhotoContentId (tried for 100 second(s) with 500 milliseconds interval) 
+2022-02-28 15:28:48,747 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:30:49,713 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:30:49,993 INFO  [BaseTest] Username entered 
+2022-02-28 15:30:50,055 INFO  [BaseTest] password entered 
+2022-02-28 15:30:50,142 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:30:55,219 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:30:58,550 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:30:58,833 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:30:59,272 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:30:59,418 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:31:00,172 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:31:00,172 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:31:00,759 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:31:01,184 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:31:01,330 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:31:01,330 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:31:01,619 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:31:02,161 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:31:02,253 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:31:02,315 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:31:02,966 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 15:32:43,052 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: uploadPhotoContentId (tried for 100 second(s) with 500 milliseconds interval) 
+2022-02-28 15:32:43,059 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:35:36,312 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 15:35:36,611 INFO  [BaseTest] Username entered 
+2022-02-28 15:35:36,688 INFO  [BaseTest] password entered 
+2022-02-28 15:35:38,707 INFO  [BaseTest] Login button clicked 
+2022-02-28 15:35:41,496 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 15:35:43,277 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 15:35:43,338 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 15:35:43,942 INFO  [BaseTest] About tab is clicked 
+2022-02-28 15:35:44,383 INFO  [BaseTest] Lastname is changed 
+2022-02-28 15:35:45,096 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 15:35:45,096 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:35:45,553 INFO  [BaseTest] Post Link clicked 
+2022-02-28 15:35:45,958 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 15:35:46,067 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 15:35:46,068 INFO  [BaseTest] Test Log Message 
+2022-02-28 15:35:46,338 INFO  [BaseTest] Moving the mouse to the photo 
+2022-02-28 15:35:46,806 INFO  [BaseTest] Update Link is clicked 
+2022-02-28 15:35:46,875 INFO  [BaseTest] Switiching to the Photo upload frame 
+2022-02-28 15:35:46,955 INFO  [BaseTest] choosephoto is selected 
+2022-02-28 15:35:47,494 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 15:36:37,771 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //iframe[@id='uploadPhotoContentId'] (tried for 50 second(s) with 500 milliseconds interval) 
+2022-02-28 15:36:37,775 INFO  [BaseTest] Test Log Message 
+2022-02-28 18:43:30,944 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 18:43:31,118 INFO  [BaseTest] Username entered 
+2022-02-28 18:43:31,200 INFO  [BaseTest] password entered 
+2022-02-28 18:43:31,434 INFO  [BaseTest] Login button clicked 
+2022-02-28 18:43:36,020 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 18:43:36,339 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 18:43:36,378 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href="javascript:HTMLTreeNode.prototype.toggleHTMLTree('PersonalInfo');"]//span[@class='accordionIcon expand_icon']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63816}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 58745abac79a6eb86092a356ab4943f5
+*** Element info: {Using=xpath, value=//a[@href="javascript:HTMLTreeNode.prototype.toggleHTMLTree('PersonalInfo');"]//span[@class='accordionIcon expand_icon']} 
+2022-02-28 18:43:36,381 INFO  [BaseTest] Test Log Message 
+2022-02-28 18:44:53,330 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 18:44:53,699 INFO  [BaseTest] Username entered 
+2022-02-28 18:44:53,805 INFO  [BaseTest] password entered 
+2022-02-28 18:44:55,669 INFO  [BaseTest] Login button clicked 
+2022-02-28 18:45:08,999 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 18:45:09,385 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 18:45:17,031 INFO  [BaseTest] Personal Tab is clicked 
+2022-02-28 18:45:17,036 INFO  [BaseTest] Test Log Message 
+2022-02-28 18:46:16,603 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 18:46:16,988 INFO  [BaseTest] Username entered 
+2022-02-28 18:46:17,113 INFO  [BaseTest] password entered 
+2022-02-28 18:46:20,528 INFO  [BaseTest] Login button clicked 
+2022-02-28 18:46:25,461 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 18:46:25,826 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 18:47:16,390 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (8bcc7f232918cf979f6e7f2792e2f4f2)] -> xpath: //a[@href="javascript:HTMLTreeNode.prototype.toggleHTMLTree('PersonalInfo');"]//span[@class='accordionIcon expand_icon']] (tried for 50 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64156}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8bcc7f232918cf979f6e7f2792e2f4f2 
+2022-02-28 18:47:16,394 INFO  [BaseTest] Test Log Message 
+2022-02-28 18:49:18,359 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 18:49:18,456 INFO  [BaseTest] Username entered 
+2022-02-28 18:49:18,524 INFO  [BaseTest] password entered 
+2022-02-28 18:49:18,593 INFO  [BaseTest] Login button clicked 
+2022-02-28 18:49:23,341 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 18:49:23,694 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 18:49:25,047 INFO  [BaseTest] Personal Tab is selected 
+2022-02-28 18:49:25,050 INFO  [BaseTest] Test Log Message 
+2022-02-28 18:50:47,605 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 18:50:47,898 INFO  [BaseTest] Username entered 
+2022-02-28 18:50:48,028 INFO  [BaseTest] password entered 
+2022-02-28 18:50:49,890 INFO  [BaseTest] Login button clicked 
+2022-02-28 18:50:54,479 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 18:50:54,873 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 18:50:55,777 INFO  [BaseTest] Personal Tab is selected 
+2022-02-28 18:50:55,786 INFO  [BaseTest] Test Log Message 
+2022-02-28 18:54:22,510 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 18:54:22,820 INFO  [BaseTest] Username entered 
+2022-02-28 18:54:22,979 INFO  [BaseTest] password entered 
+2022-02-28 18:54:23,079 INFO  [BaseTest] Login button clicked 
+2022-02-28 18:54:28,307 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 18:54:28,695 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 18:54:30,536 INFO  [BaseTest] Personal Tab is selected 
+2022-02-28 18:54:31,104 INFO  [BaseTest] Login History Tab is selected 
+2022-02-28 18:54:31,112 INFO  [BaseTest] Test Log Message 
+2022-02-28 18:59:36,377 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 18:59:36,755 INFO  [BaseTest] Username entered 
+2022-02-28 18:59:36,885 INFO  [BaseTest] password entered 
+2022-02-28 18:59:38,949 INFO  [BaseTest] Login button clicked 
+2022-02-28 18:59:44,299 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 18:59:44,681 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 18:59:46,393 INFO  [BaseTest] Personal Tab is selected 
+2022-02-28 18:59:46,868 INFO  [BaseTest] Login History Tab is selected 
+2022-02-28 18:59:47,361 INFO  [BaseTest] Download Login History link is clicked 
+2022-02-28 18:59:47,373 INFO  [BaseTest] Test Log Message 
+2022-02-28 19:03:18,736 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 19:03:19,145 INFO  [BaseTest] Username entered 
+2022-02-28 19:03:19,361 INFO  [BaseTest] password entered 
+2022-02-28 19:03:21,360 INFO  [BaseTest] Login button clicked 
+2022-02-28 19:03:22,179 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 19:03:22,480 INFO  [BaseTest] Username entered 
+2022-02-28 19:03:22,556 INFO  [BaseTest] password entered 
+2022-02-28 19:03:22,632 INFO  [BaseTest] Login button clicked 
+2022-02-28 19:03:24,209 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 19:03:24,633 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 19:03:26,296 INFO  [BaseTest] Personal Tab is selected 
+2022-02-28 19:03:26,806 INFO  [BaseTest] Login History Tab is selected 
+2022-02-28 19:03:27,169 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 19:03:27,262 INFO  [BaseTest] Download Login History link is clicked 
+2022-02-28 19:03:27,454 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 19:03:27,564 INFO  [BaseTest] Display & Layout Tab is selected 
+2022-02-28 19:03:27,571 INFO  [BaseTest] Test Log Message 
+2022-02-28 19:03:28,774 INFO  [BaseTest] Personal Tab is selected 
+2022-02-28 19:03:29,208 INFO  [BaseTest] Login History Tab is selected 
+2022-02-28 19:03:29,727 INFO  [BaseTest] Download Login History link is clicked 
+2022-02-28 19:03:30,009 INFO  [BaseTest] Display & Layout Tab is selected 
+2022-02-28 19:03:30,014 INFO  [BaseTest] Test Log Message 
+2022-02-28 19:16:18,399 INFO  [BaseTest] Testcase 7 started 
+2022-02-28 19:16:18,782 INFO  [BaseTest] Username entered 
+2022-02-28 19:16:18,902 INFO  [BaseTest] password entered 
+2022-02-28 19:16:20,876 INFO  [BaseTest] Login button clicked 
+2022-02-28 19:16:23,970 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 19:16:24,348 INFO  [BaseTest] My Settings option is clicked 
+2022-02-28 19:16:26,062 INFO  [BaseTest] Personal Tab is selected 
+2022-02-28 19:16:26,756 INFO  [BaseTest] Login History Tab is selected 
+2022-02-28 19:16:27,332 INFO  [BaseTest] Download Login History link is clicked 
+2022-02-28 19:16:27,622 INFO  [BaseTest] Display & Layout Tab is selected 
+2022-02-28 19:16:28,396 INFO  [BaseTest] Customize My Tab is clicked 
+2022-02-28 19:16:28,400 INFO  [BaseTest] Test Log Message 
+2022-02-28 19:30:47,214 INFO  [BaseTest] Testcase 8 started 
+2022-02-28 19:30:47,345 INFO  [BaseTest] Username entered 
+2022-02-28 19:30:47,539 INFO  [BaseTest] password entered 
+2022-02-28 19:30:47,693 INFO  [BaseTest] Login button clicked 
+2022-02-28 19:30:52,553 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 19:30:52,696 INFO  [BaseTest] Developer Console option is clicked 
+2022-02-28 19:30:52,783 ERROR [BaseTest] java.lang.NullPointerException: null value in entry: handle=null 
+2022-02-28 19:30:52,789 INFO  [BaseTest] Test Log Message 
+2022-02-28 19:32:28,730 INFO  [BaseTest] Testcase 8 started 
+2022-02-28 19:32:28,890 INFO  [BaseTest] Username entered 
+2022-02-28 19:32:28,962 INFO  [BaseTest] password entered 
+2022-02-28 19:32:33,197 INFO  [BaseTest] Login button clicked 
+2022-02-28 19:32:37,436 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 19:32:37,543 INFO  [BaseTest] Developer Console option is clicked 
+2022-02-28 19:32:37,570 INFO  [BaseTest] Switch to Developer Console window 
+2022-02-28 19:32:37,619 INFO  [BaseTest] Developer Console is closed 
+2022-02-28 19:32:37,624 INFO  [BaseTest] Test Log Message 
+2022-02-28 19:44:39,976 INFO  [BaseTest] Testcase 9 started 
+2022-02-28 19:44:40,159 INFO  [BaseTest] Username entered 
+2022-02-28 19:44:40,246 INFO  [BaseTest] password entered 
+2022-02-28 19:44:42,330 INFO  [BaseTest] Login button clicked 
+2022-02-28 19:44:45,407 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 19:44:46,182 INFO  [BaseTest] Logout option is clicked 
+2022-02-28 19:44:46,214 INFO  [BaseTest] Test Log Message 
+2022-02-28 20:58:11,895 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 20:58:12,366 INFO  [BaseTest] Username entered 
+2022-02-28 20:58:12,502 INFO  [BaseTest] password entered 
+2022-02-28 20:58:14,276 INFO  [BaseTest] Login button clicked 
+2022-02-28 20:58:17,818 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 20:58:18,185 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 20:58:18,230 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='name']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55696}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 92352377867a9a3fc8e6f6bc1a81c25d
+*** Element info: {Using=name, value=name} 
+2022-02-28 20:58:18,235 INFO  [BaseTest] Test Log Message 
+2022-02-28 21:02:50,020 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 21:02:50,365 INFO  [BaseTest] Username entered 
+2022-02-28 21:02:50,498 INFO  [BaseTest] password entered 
+2022-02-28 21:02:52,515 INFO  [BaseTest] Login button clicked 
+2022-02-28 21:02:56,473 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 21:02:56,997 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 21:02:58,788 INFO  [BaseTest] Popup is closed 
+2022-02-28 21:02:58,828 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='name']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 54b09f84bc3dd9aa8394f0615477632b
+*** Element info: {Using=name, value=name} 
+2022-02-28 21:02:58,838 INFO  [BaseTest] Test Log Message 
+2022-02-28 21:04:01,069 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 21:04:01,186 INFO  [BaseTest] Username entered 
+2022-02-28 21:04:01,268 INFO  [BaseTest] password entered 
+2022-02-28 21:04:01,353 INFO  [BaseTest] Login button clicked 
+2022-02-28 21:04:06,141 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 21:04:06,503 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 21:04:08,661 INFO  [BaseTest] Popup is closed 
+2022-02-28 21:04:58,917 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.name: name' (tried for 50 second(s) with 500 milliseconds interval) 
+2022-02-28 21:04:58,920 INFO  [BaseTest] Test Log Message 
+2022-02-28 21:06:29,177 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 21:06:29,268 INFO  [BaseTest] Username entered 
+2022-02-28 21:06:29,356 INFO  [BaseTest] password entered 
+2022-02-28 21:06:29,453 INFO  [BaseTest] Login button clicked 
+2022-02-28 21:06:34,697 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 21:06:35,417 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 21:06:36,082 INFO  [BaseTest] Popup is closed 
+2022-02-28 21:07:27,438 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.name: name' (tried for 50 second(s) with 500 milliseconds interval) 
+2022-02-28 21:07:27,445 INFO  [BaseTest] Test Log Message 
+2022-02-28 21:08:25,839 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 21:08:26,076 INFO  [BaseTest] Username entered 
+2022-02-28 21:08:26,214 INFO  [BaseTest] password entered 
+2022-02-28 21:08:28,068 INFO  [BaseTest] Login button clicked 
+2022-02-28 21:08:30,708 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 21:08:31,474 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 21:08:32,979 INFO  [BaseTest] Popup is closed 
+2022-02-28 21:08:33,286 INFO  [BaseTest] New Button on Account page is clicked 
+2022-02-28 21:08:33,295 INFO  [BaseTest] Test Log Message 
+2022-02-28 21:20:46,545 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 21:20:46,614 INFO  [BaseTest] Username entered 
+2022-02-28 21:20:47,059 INFO  [BaseTest] password entered 
+2022-02-28 21:20:47,166 INFO  [BaseTest] Login button clicked 
+2022-02-28 21:20:51,694 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 21:20:52,016 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 21:20:53,456 INFO  [BaseTest] Popup is closed 
+2022-02-28 21:20:53,759 INFO  [BaseTest] New Button on Account page is clicked 
+2022-02-28 21:20:53,800 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='acc2']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57463}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ff4676865010491ae18f5e0081dadf0
+*** Element info: {Using=xpath, value=//input[@name='acc2']} 
+2022-02-28 21:20:53,807 INFO  [BaseTest] Test Log Message 
+2022-02-28 21:22:05,263 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 21:22:05,358 INFO  [BaseTest] Username entered 
+2022-02-28 21:22:05,440 INFO  [BaseTest] password entered 
+2022-02-28 21:22:05,718 INFO  [BaseTest] Login button clicked 
+2022-02-28 21:22:12,584 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 21:22:12,992 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 21:22:14,417 INFO  [BaseTest] Popup is closed 
+2022-02-28 21:22:14,725 INFO  [BaseTest] New Button on Account page is clicked 
+2022-02-28 21:22:15,481 INFO  [BaseTest] Account Name is entered 
+2022-02-28 21:22:15,598 INFO  [BaseTest] Type dropdown is clicked 
+2022-02-28 21:22:15,732 INFO  [BaseTest] Type dropdown value is selected 
+2022-02-28 21:22:15,737 INFO  [BaseTest] Test Log Message 
+2022-02-28 21:25:56,444 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 21:25:56,663 INFO  [BaseTest] Username entered 
+2022-02-28 21:25:56,781 INFO  [BaseTest] password entered 
+2022-02-28 21:25:59,019 INFO  [BaseTest] Login button clicked 
+2022-02-28 21:26:02,021 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 21:26:02,402 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 21:26:03,937 INFO  [BaseTest] Popup is closed 
+2022-02-28 21:26:04,319 INFO  [BaseTest] New Button on Account page is clicked 
+2022-02-28 21:26:05,077 INFO  [BaseTest] Account Name is entered 
+2022-02-28 21:26:05,158 INFO  [BaseTest] Type dropdown is clicked 
+2022-02-28 21:26:05,300 INFO  [BaseTest] Type dropdown value is selected 
+2022-02-28 21:26:05,453 INFO  [BaseTest] Priority dropdown value is selected 
+2022-02-28 21:26:05,515 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 21:26:05,520 INFO  [BaseTest] Test Log Message 
+2022-02-28 22:43:22,492 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 22:43:22,864 INFO  [BaseTest] Username entered 
+2022-02-28 22:43:22,939 INFO  [BaseTest] password entered 
+2022-02-28 22:43:25,577 INFO  [BaseTest] Login button clicked 
+2022-02-28 22:43:32,455 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 22:43:33,420 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 22:43:37,371 INFO  [BaseTest] Popup is closed 
+2022-02-28 22:43:37,879 INFO  [BaseTest] New Button on Account page is clicked 
+2022-02-28 22:43:39,059 INFO  [BaseTest] Account Name is entered 
+2022-02-28 22:43:39,200 INFO  [BaseTest] Type dropdown is clicked 
+2022-02-28 22:43:39,372 INFO  [BaseTest] Type dropdown value is selected 
+2022-02-28 22:43:39,592 INFO  [BaseTest] Priority dropdown value is selected 
+2022-02-28 22:43:39,739 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 22:43:40,972 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'Happy')]"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60373}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aee7ea89a03333fbbb1902e2d218301a
+*** Element info: {Using=xpath, value=//h2[contains(text(),'Happy')]} 
+2022-02-28 22:43:40,980 INFO  [BaseTest] Test Log Message 
+2022-02-28 22:44:47,454 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 22:44:47,661 INFO  [BaseTest] Username entered 
+2022-02-28 22:44:47,733 INFO  [BaseTest] password entered 
+2022-02-28 22:44:47,874 INFO  [BaseTest] Login button clicked 
+2022-02-28 22:44:59,348 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 22:44:59,729 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 22:45:06,547 INFO  [BaseTest] Popup is closed 
+2022-02-28 22:45:06,959 INFO  [BaseTest] New Button on Account page is clicked 
+2022-02-28 22:45:08,715 INFO  [BaseTest] Account Name is entered 
+2022-02-28 22:45:08,793 INFO  [BaseTest] Type dropdown is clicked 
+2022-02-28 22:45:08,961 INFO  [BaseTest] Type dropdown value is selected 
+2022-02-28 22:45:09,175 INFO  [BaseTest] Priority dropdown value is selected 
+2022-02-28 22:45:09,312 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 22:45:10,073 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'Rocket1')]"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 872fe44aabaec9deecb7652b9dcdb48e
+*** Element info: {Using=xpath, value=//h2[contains(text(),'Rocket1')]} 
+2022-02-28 22:45:10,081 INFO  [BaseTest] Test Log Message 
+2022-02-28 22:45:56,195 INFO  [BaseTest] Testcase 10 started 
+2022-02-28 22:45:56,282 INFO  [BaseTest] Username entered 
+2022-02-28 22:45:56,364 INFO  [BaseTest] password entered 
+2022-02-28 22:46:07,986 INFO  [BaseTest] Login button clicked 
+2022-02-28 22:46:08,193 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 22:46:09,595 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 22:46:12,507 INFO  [BaseTest] Popup is closed 
+2022-02-28 22:46:14,002 INFO  [BaseTest] New Button on Account page is clicked 
+2022-02-28 22:46:14,743 INFO  [BaseTest] Account Name is entered 
+2022-02-28 22:46:14,888 INFO  [BaseTest] Type dropdown is clicked 
+2022-02-28 22:46:15,125 INFO  [BaseTest] Type dropdown value is selected 
+2022-02-28 22:46:15,333 INFO  [BaseTest] Priority dropdown value is selected 
+2022-02-28 22:46:19,993 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 22:46:20,025 INFO  [BaseTest] Validating the account page is displayed with the new account name 
+2022-02-28 22:46:20,029 INFO  [BaseTest] Test Log Message 
+2022-02-28 23:12:31,234 INFO  [BaseTest] Testcase 11 started 
+2022-02-28 23:12:31,319 INFO  [BaseTest] Username entered 
+2022-02-28 23:12:31,381 INFO  [BaseTest] password entered 
+2022-02-28 23:12:49,348 INFO  [BaseTest] Login button clicked 
+2022-02-28 23:12:49,535 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 23:12:50,560 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 23:12:57,138 INFO  [BaseTest] Popup is closed 
+2022-02-28 23:12:58,070 INFO  [BaseTest] Create New view link on Accounts page is clicked 
+2022-02-28 23:12:58,101 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='fname']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20c7459ae66ddcf6511be7788a7a6f83
+*** Element info: {Using=name, value=fname} 
+2022-02-28 23:12:58,105 INFO  [BaseTest] Test Log Message 
+2022-02-28 23:14:06,710 INFO  [BaseTest] Testcase 11 started 
+2022-02-28 23:14:06,853 INFO  [BaseTest] Username entered 
+2022-02-28 23:14:06,925 INFO  [BaseTest] password entered 
+2022-02-28 23:14:09,858 INFO  [BaseTest] Login button clicked 
+2022-02-28 23:14:19,709 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 23:14:20,077 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 23:14:25,015 INFO  [BaseTest] Popup is closed 
+2022-02-28 23:14:25,286 INFO  [BaseTest] Create New view link on Accounts page is clicked 
+2022-02-28 23:14:27,106 INFO  [BaseTest] View Name is clicked 
+2022-02-28 23:14:27,166 INFO  [BaseTest] View Name is entered 
+2022-02-28 23:14:27,235 INFO  [BaseTest] Unique Name is clicked 
+2022-02-28 23:14:27,316 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 23:14:27,316 INFO  [BaseTest] Validating the account page is displayed with the new account name 
+2022-02-28 23:14:27,320 INFO  [BaseTest] Test Log Message 
+2022-02-28 23:26:24,427 INFO  [BaseTest] Testcase 11 started 
+2022-02-28 23:26:24,543 INFO  [BaseTest] Username entered 
+2022-02-28 23:26:24,624 INFO  [BaseTest] password entered 
+2022-02-28 23:26:50,401 INFO  [BaseTest] Login button clicked 
+2022-02-28 23:26:50,589 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 23:26:51,831 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 23:27:02,178 INFO  [BaseTest] Popup is closed 
+2022-02-28 23:27:02,502 INFO  [BaseTest] Create New view link on Accounts page is clicked 
+2022-02-28 23:27:04,265 INFO  [BaseTest] View Name is clicked 
+2022-02-28 23:27:04,313 INFO  [BaseTest] View Name is entered 
+2022-02-28 23:27:04,395 INFO  [BaseTest] Unique Name is clicked 
+2022-02-28 23:27:04,486 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 23:27:05,106 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name='fcf']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62711}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 028224ce7db43b67265bbaaef9a23671
+*** Element info: {Using=xpath, value=//*[@name='fcf']} 
+2022-02-28 23:27:05,122 INFO  [BaseTest] Test Log Message 
+2022-02-28 23:29:31,293 INFO  [BaseTest] Testcase 11 started 
+2022-02-28 23:29:31,380 INFO  [BaseTest] Username entered 
+2022-02-28 23:29:31,442 INFO  [BaseTest] password entered 
+2022-02-28 23:29:58,744 INFO  [BaseTest] Login button clicked 
+2022-02-28 23:29:58,881 INFO  [BaseTest] validating if hometab is displayed 
+2022-02-28 23:29:59,500 INFO  [BaseTest] Accounts Tab is clicked 
+2022-02-28 23:30:09,284 INFO  [BaseTest] Popup is closed 
+2022-02-28 23:30:10,062 INFO  [BaseTest] Create New view link on Accounts page is clicked 
+2022-02-28 23:30:10,846 INFO  [BaseTest] View Name is clicked 
+2022-02-28 23:30:10,942 INFO  [BaseTest] View Name is entered 
+2022-02-28 23:30:11,073 INFO  [BaseTest] Unique Name is clicked 
+2022-02-28 23:30:11,218 INFO  [BaseTest] Save Button is clicked 
+2022-02-28 23:30:19,718 INFO  [BaseTest] Validating the account page is displayed in the view dropdown  
+2022-02-28 23:30:19,722 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:19:04,960 INFO  [BaseTest] Testcase 15 started 
+2022-03-01 23:19:05,323 INFO  [BaseTest] Username entered 
+2022-03-01 23:19:05,540 INFO  [BaseTest] password entered 
+2022-03-01 23:19:07,527 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:19:10,678 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:19:11,330 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:19:12,892 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:19:12,999 INFO  [BaseTest] Opportunities dropdown is clicked 
+2022-03-01 23:19:13,203 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:29:29,612 INFO  [BaseTest] Testcase 16 started 
+2022-03-01 23:29:30,008 INFO  [BaseTest] Username entered 
+2022-03-01 23:29:30,088 INFO  [BaseTest] password entered 
+2022-03-01 23:29:30,200 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:29:35,572 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:29:35,951 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:29:37,695 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:29:38,595 INFO  [BaseTest] New button is clicked to create new opportunity 
+2022-03-01 23:29:38,600 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:35:02,292 INFO  [BaseTest] Testcase 16 started 
+2022-03-01 23:35:02,753 INFO  [BaseTest] Username entered 
+2022-03-01 23:35:02,861 INFO  [BaseTest] password entered 
+2022-03-01 23:35:05,137 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:35:08,588 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:35:09,361 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:35:10,821 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:35:11,166 INFO  [BaseTest] New button is clicked to create new opportunity 
+2022-03-01 23:35:11,200 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#opp3"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a300e654855ab5a77ba34ba12e63c1fd
+*** Element info: {Using=id, value=opp3} 
+2022-03-01 23:35:11,205 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:36:00,331 INFO  [BaseTest] Testcase 16 started 
+2022-03-01 23:36:00,650 INFO  [BaseTest] Username entered 
+2022-03-01 23:36:00,795 INFO  [BaseTest] password entered 
+2022-03-01 23:36:03,366 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:36:06,319 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:36:06,697 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:36:08,462 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:36:09,292 INFO  [BaseTest] New button is clicked to create new opportunity 
+2022-03-01 23:36:09,436 INFO  [BaseTest] Opportunity Name is clicked 
+2022-03-01 23:36:09,524 INFO  [BaseTest] Account Name is entered 
+2022-03-01 23:36:09,530 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:36:16,430 INFO  [BaseTest] Testcase 16 started 
+2022-03-01 23:36:16,723 INFO  [BaseTest] Username entered 
+2022-03-01 23:36:16,824 INFO  [BaseTest] password entered 
+2022-03-01 23:36:18,836 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:36:21,862 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:36:22,432 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:36:24,036 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:36:24,321 INFO  [BaseTest] New button is clicked to create new opportunity 
+2022-03-01 23:36:25,017 INFO  [BaseTest] Opportunity Name is clicked 
+2022-03-01 23:36:25,109 INFO  [BaseTest] Account Name is entered 
+2022-03-01 23:36:25,114 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:55:31,792 INFO  [BaseTest] Testcase 17 started 
+2022-03-01 23:55:31,918 INFO  [BaseTest] Username entered 
+2022-03-01 23:55:31,988 INFO  [BaseTest] password entered 
+2022-03-01 23:55:34,365 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:55:37,578 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:55:37,954 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:55:39,713 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:55:40,091 INFO  [BaseTest] Opportunity Pipeline link is clicked under reports 
+2022-03-01 23:55:40,148 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:56:53,860 INFO  [BaseTest] Testcase 17 started 
+2022-03-01 23:56:54,155 INFO  [BaseTest] Username entered 
+2022-03-01 23:56:54,322 INFO  [BaseTest] password entered 
+2022-03-01 23:56:54,416 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:56:59,364 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:56:59,979 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:57:01,585 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:57:02,031 INFO  [BaseTest] Opportunity Pipeline link is clicked under reports 
+2022-03-01 23:57:02,154 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:58:53,965 INFO  [BaseTest] Testcase 17 started 
+2022-03-01 23:58:54,257 INFO  [BaseTest] Username entered 
+2022-03-01 23:58:54,390 INFO  [BaseTest] password entered 
+2022-03-01 23:58:56,524 INFO  [BaseTest] Login button clicked 
+2022-03-01 23:58:59,951 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-01 23:59:00,461 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-01 23:59:01,653 INFO  [BaseTest] Popup is closed 
+2022-03-01 23:59:01,682 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='noSecondHeader pageType']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a055a9026baac2e7dd8d880508c64ad
+*** Element info: {Using=xpath, value=//h1[@class='noSecondHeader pageType']} 
+2022-03-01 23:59:01,688 INFO  [BaseTest] Test Log Message 
+2022-03-01 23:59:59,065 INFO  [BaseTest] Testcase 17 started 
+2022-03-01 23:59:59,385 INFO  [BaseTest] Username entered 
+2022-03-01 23:59:59,485 INFO  [BaseTest] password entered 
+2022-03-01 23:59:59,643 INFO  [BaseTest] Login button clicked 
+2022-03-02 00:00:05,276 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 00:00:05,645 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-02 00:00:07,542 INFO  [BaseTest] Popup is closed 
+2022-03-02 00:00:07,571 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='noSecondHeader pageType']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59218}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 89bb16ebcb8b62f0348e29dc6c2826ee
+*** Element info: {Using=xpath, value=//h1[@class='noSecondHeader pageType']} 
+2022-03-02 00:00:07,575 INFO  [BaseTest] Test Log Message 
+2022-03-02 00:04:55,873 INFO  [BaseTest] Testcase 17 started 
+2022-03-02 00:04:56,078 INFO  [BaseTest] Username entered 
+2022-03-02 00:04:56,222 INFO  [BaseTest] password entered 
+2022-03-02 00:04:58,297 INFO  [BaseTest] Login button clicked 
+2022-03-02 00:05:01,554 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 00:05:01,939 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-02 00:05:03,380 INFO  [BaseTest] Popup is closed 
+2022-03-02 00:05:04,185 INFO  [BaseTest] Opportunity Pipeline link is clicked under reports 
+2022-03-02 00:05:04,210 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='noSecondHeader pageType']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59472}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cdebf469c0bdd10e253c7ff110565631
+*** Element info: {Using=xpath, value=//h1[@class='noSecondHeader pageType']} 
+2022-03-02 00:05:04,215 INFO  [BaseTest] Test Log Message 
+2022-03-02 00:17:59,098 INFO  [BaseTest] Testcase 17 started 
+2022-03-02 00:17:59,409 INFO  [BaseTest] Username entered 
+2022-03-02 00:17:59,570 INFO  [BaseTest] password entered 
+2022-03-02 00:18:01,473 INFO  [BaseTest] Login button clicked 
+2022-03-02 00:18:04,590 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 00:18:04,981 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-02 00:18:06,400 INFO  [BaseTest] Popup is closed 
+2022-03-02 00:18:06,846 INFO  [BaseTest] Opportunity Pipeline link is clicked under reports 
+2022-03-02 00:18:06,871 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='noSecondHeader pageType']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59811}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: af58a398b8edfbb948299a1ae2d92018
+*** Element info: {Using=xpath, value=//h1[@class='noSecondHeader pageType']} 
+2022-03-02 00:18:06,875 INFO  [BaseTest] Test Log Message 
+2022-03-02 00:18:53,220 INFO  [BaseTest] Testcase 17 started 
+2022-03-02 00:18:53,539 INFO  [BaseTest] Username entered 
+2022-03-02 00:18:53,656 INFO  [BaseTest] password entered 
+2022-03-02 00:18:55,498 INFO  [BaseTest] Login button clicked 
+2022-03-02 00:18:58,788 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 00:18:59,474 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-02 00:19:01,135 INFO  [BaseTest] Popup is closed 
+2022-03-02 00:19:01,563 INFO  [BaseTest] Opportunity Pipeline link is clicked under reports 
+2022-03-02 00:19:01,586 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='noSecondHeader pageType']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59914}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 570c659efb8a1302030f5f44544427d1
+*** Element info: {Using=xpath, value=//h1[@class='noSecondHeader pageType']} 
+2022-03-02 00:19:01,589 INFO  [BaseTest] Test Log Message 
+2022-03-02 00:20:26,353 INFO  [BaseTest] Testcase 17 started 
+2022-03-02 00:20:26,682 INFO  [BaseTest] Username entered 
+2022-03-02 00:20:26,767 INFO  [BaseTest] password entered 
+2022-03-02 00:20:26,940 INFO  [BaseTest] Login button clicked 
+2022-03-02 00:20:32,358 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 00:20:32,886 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-02 00:20:34,811 INFO  [BaseTest] Popup is closed 
+2022-03-02 00:20:35,493 INFO  [BaseTest] Opportunity Pipeline link is clicked under reports 
+2022-03-02 00:20:35,521 INFO  [BaseTest] validating Opportunity Pipeline report 
+2022-03-02 00:20:35,525 INFO  [BaseTest] Test Log Message 
+2022-03-02 00:28:09,294 INFO  [BaseTest] Testcase 18 started 
+2022-03-02 00:28:09,595 INFO  [BaseTest] Username entered 
+2022-03-02 00:28:09,778 INFO  [BaseTest] password entered 
+2022-03-02 00:28:11,861 INFO  [BaseTest] Login button clicked 
+2022-03-02 00:28:15,261 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 00:28:15,961 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-02 00:28:17,621 INFO  [BaseTest] Popup is closed 
+2022-03-02 00:28:18,362 INFO  [BaseTest] Stuck Opportunities link is clicked under reports 
+2022-03-02 00:28:18,387 INFO  [BaseTest] validating Stuck Opportunities report 
+2022-03-02 00:28:18,391 INFO  [BaseTest] Test Log Message 
+2022-03-02 00:43:30,507 INFO  [BaseTest] Testcase 19 started 
+2022-03-02 00:43:30,790 INFO  [BaseTest] Username entered 
+2022-03-02 00:43:30,899 INFO  [BaseTest] password entered 
+2022-03-02 00:43:32,839 INFO  [BaseTest] Login button clicked 
+2022-03-02 00:43:36,007 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 00:43:36,398 INFO  [BaseTest] Opportunities Tab is clicked 
+2022-03-02 00:43:37,903 INFO  [BaseTest] Popup is closed 
+2022-03-02 00:43:38,256 INFO  [BaseTest] Select NextFQ in the Quartely Summary Interval dropdown 
+2022-03-02 00:43:38,531 INFO  [BaseTest] Select Open Opportunities in the Quartely Summary Include dropdown 
+2022-03-02 00:43:39,367 INFO  [BaseTest] Runreport button is clicked 
+2022-03-02 00:43:39,372 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:35:34,242 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:34,846 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:35,163 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:35,231 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:35,230 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:36,575 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:36,761 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:37,162 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:38,177 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:38,636 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:38,640 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:39,527 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:39,820 INFO  [BaseTest] password entered 
+2022-03-02 23:35:40,126 INFO  [BaseTest] password entered 
+2022-03-02 23:35:40,151 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:40,279 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:40,616 INFO  [BaseTest] password entered 
+2022-03-02 23:35:40,855 INFO  [BaseTest] password entered 
+2022-03-02 23:35:41,553 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:41,678 INFO  [BaseTest] password entered 
+2022-03-02 23:35:42,106 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:42,677 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:43,749 INFO  [BaseTest] password entered 
+2022-03-02 23:35:44,066 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:44,550 INFO  [BaseTest] password entered 
+2022-03-02 23:35:44,841 INFO  [BaseTest] password entered 
+2022-03-02 23:35:45,439 INFO  [BaseTest] password entered 
+2022-03-02 23:35:47,967 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:35:49,979 INFO  [BaseTest] Username entered 
+2022-03-02 23:35:51,913 INFO  [BaseTest] password entered 
+2022-03-02 23:35:55,203 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:35:56,252 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:35:57,855 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:35:58,660 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:36:02,492 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:36:02,669 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:36:02,681 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:36:03,085 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:36:04,010 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:36:05,064 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:05,160 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:05,472 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:05,602 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:06,802 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:07,360 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:07,635 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:08,459 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:09,328 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:09,986 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:10,098 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:10,100 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:10,111 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:10,413 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:11,260 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:11,813 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:12,212 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:12,472 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:12,473 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:12,476 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:13,097 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:13,097 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:13,103 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:14,556 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:14,609 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:14,878 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:15,106 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:15,474 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:15,911 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:15,915 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:15,928 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:16,595 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:16,622 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:16,623 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:16,635 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:16,809 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:16,810 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:16,816 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:17,169 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:17,170 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:17,183 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:18,713 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:36:18,819 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:19,139 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:19,141 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:19,145 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:36:19,735 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:36:20,905 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:36:22,545 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:36:22,546 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:36:22,554 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:38:14,893 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:38:15,252 INFO  [BaseTest] Username entered 
+2022-03-02 23:38:15,390 INFO  [BaseTest] password entered 
+2022-03-02 23:38:17,386 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:38:20,493 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:38:23,082 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:38:24,325 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:38:24,329 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:38:24,335 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:40:07,451 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:40:07,545 INFO  [BaseTest] Username entered 
+2022-03-02 23:40:07,622 INFO  [BaseTest] password entered 
+2022-03-02 23:40:07,699 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:40:20,601 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:40:21,268 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:40:22,962 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:40:22,964 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:40:22,969 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:41:28,697 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:41:28,799 INFO  [BaseTest] Username entered 
+2022-03-02 23:41:29,032 INFO  [BaseTest] password entered 
+2022-03-02 23:41:29,227 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:41:33,888 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:41:35,316 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:41:36,558 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:41:36,560 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:41:36,567 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:42:43,014 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:42:43,354 INFO  [BaseTest] Username entered 
+2022-03-02 23:42:43,505 INFO  [BaseTest] password entered 
+2022-03-02 23:42:45,613 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:42:50,546 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:42:51,391 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:42:52,852 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:42:52,852 ERROR [BaseTest] java.lang.NullPointerException 
+2022-03-02 23:42:52,856 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:44:51,774 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:44:52,122 INFO  [BaseTest] Username entered 
+2022-03-02 23:44:52,279 INFO  [BaseTest] password entered 
+2022-03-02 23:44:54,177 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:44:57,245 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:44:58,153 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:44:59,413 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:44:59,512 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:47:43,732 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:47:43,817 INFO  [BaseTest] Username entered 
+2022-03-02 23:47:43,901 INFO  [BaseTest] password entered 
+2022-03-02 23:47:43,962 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:47:49,107 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:47:49,518 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:47:53,005 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:47:53,183 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:50:49,067 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:50:49,409 INFO  [BaseTest] Username entered 
+2022-03-02 23:50:49,478 INFO  [BaseTest] password entered 
+2022-03-02 23:50:49,555 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:50:54,255 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:50:54,633 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:50:56,121 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:50:56,221 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:53:24,418 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:53:24,498 INFO  [BaseTest] Username entered 
+2022-03-02 23:53:24,564 INFO  [BaseTest] password entered 
+2022-03-02 23:53:26,680 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:53:31,385 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:53:31,999 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:53:33,218 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:53:33,272 INFO  [BaseTest] Test Log Message 
+2022-03-02 23:54:46,927 INFO  [BaseTest] Testcase 20 started 
+2022-03-02 23:54:47,053 INFO  [BaseTest] Username entered 
+2022-03-02 23:54:47,117 INFO  [BaseTest] password entered 
+2022-03-02 23:54:47,181 INFO  [BaseTest] Login button clicked 
+2022-03-02 23:54:55,553 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-02 23:54:56,265 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-02 23:54:57,935 INFO  [BaseTest] Popup is closed 
+2022-03-02 23:54:58,013 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-02 23:54:58,017 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:06:56,701 INFO  [BaseTest] Testcase 21 started 
+2022-03-03 00:06:57,026 INFO  [BaseTest] Username entered 
+2022-03-03 00:06:57,210 INFO  [BaseTest] password entered 
+2022-03-03 00:06:59,257 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:07:02,428 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:07:03,071 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:07:04,435 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:07:04,497 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:07:04,570 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:07:08,827 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:11:00,723 INFO  [BaseTest] Testcase 21 started 
+2022-03-03 00:11:00,816 INFO  [BaseTest] Username entered 
+2022-03-03 00:11:00,889 INFO  [BaseTest] password entered 
+2022-03-03 00:11:00,961 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:11:06,587 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:11:07,317 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:11:08,655 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:11:08,721 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:11:08,786 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:11:13,041 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:12:23,729 INFO  [BaseTest] Testcase 21 started 
+2022-03-03 00:12:24,049 INFO  [BaseTest] Username entered 
+2022-03-03 00:12:24,201 INFO  [BaseTest] password entered 
+2022-03-03 00:12:26,192 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:12:29,301 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:12:29,926 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:12:31,597 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:12:31,686 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:12:31,782 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:12:31,935 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:18:48,318 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 00:18:48,446 INFO  [BaseTest] Username entered 
+2022-03-03 00:18:48,565 INFO  [BaseTest] password entered 
+2022-03-03 00:18:50,847 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:18:55,795 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:19:04,215 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:19:05,608 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:19:05,734 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:19:05,894 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:19:07,328 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 00:19:07,331 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:35:02,628 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 00:35:03,468 INFO  [BaseTest] Username entered 
+2022-03-03 00:35:03,622 INFO  [BaseTest] password entered 
+2022-03-03 00:35:04,564 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 00:35:04,836 INFO  [BaseTest] Username entered 
+2022-03-03 00:35:04,981 INFO  [BaseTest] password entered 
+2022-03-03 00:35:08,462 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:35:09,527 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:35:09,697 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:35:10,713 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:35:12,092 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:35:12,196 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:35:12,318 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:35:12,446 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 00:35:12,619 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 00:35:13,158 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 00:35:13,189 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#idcard\-identity"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59621}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6be254fa631c0d8f879c0fd9e452e799
+*** Element info: {Using=id, value=idcard-identity} 
+2022-03-03 00:35:13,195 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:35:18,789 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:35:19,535 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:35:20,907 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:35:20,975 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:35:21,088 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:35:21,226 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 00:35:21,460 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 00:35:22,017 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 00:35:22,062 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#idcard\-identity"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b77065e88b92631dbb38cc93e1e3fbdf
+*** Element info: {Using=id, value=idcard-identity} 
+2022-03-03 00:35:22,069 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:36:59,334 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 00:36:59,696 INFO  [BaseTest] Username entered 
+2022-03-03 00:36:59,836 INFO  [BaseTest] password entered 
+2022-03-03 00:37:01,926 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:37:06,953 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:37:07,657 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:37:09,710 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:37:09,844 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:37:10,007 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:37:10,138 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 00:37:10,352 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 00:37:10,888 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 00:37:11,407 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59835}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 855f2a1b5c153e89c0dccc8fadbd5b80 
+2022-03-03 00:37:11,411 INFO  [BaseTest] Test Log Message 
+2022-03-03 00:40:08,820 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 00:40:08,966 INFO  [BaseTest] Username entered 
+2022-03-03 00:40:09,403 INFO  [BaseTest] password entered 
+2022-03-03 00:40:11,296 INFO  [BaseTest] Login button clicked 
+2022-03-03 00:40:15,859 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 00:40:16,756 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 00:40:19,976 INFO  [BaseTest] Popup is closed 
+2022-03-03 00:40:20,093 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 00:40:20,212 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 00:40:20,344 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 00:40:20,566 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 00:40:21,113 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 00:40:21,955 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60085}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 437a20d245317dbc6144583451b4b9e6 
+2022-03-03 00:40:21,961 INFO  [BaseTest] Test Log Message 
+2022-03-03 07:53:33,600 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 07:53:34,177 INFO  [BaseTest] Username entered 
+2022-03-03 07:53:34,481 INFO  [BaseTest] password entered 
+2022-03-03 07:53:34,576 INFO  [BaseTest] Login button clicked 
+2022-03-03 07:53:39,310 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 07:53:41,336 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 07:53:43,667 INFO  [BaseTest] Popup is closed 
+2022-03-03 07:53:43,748 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 07:53:43,832 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 07:53:45,006 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 07:53:45,172 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 07:53:45,644 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 07:53:46,262 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51888}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 91eea5a00c8d1258983c8c541b965a89 
+2022-03-03 07:53:46,267 INFO  [BaseTest] Test Log Message 
+2022-03-03 07:55:40,051 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 07:55:40,448 INFO  [BaseTest] Username entered 
+2022-03-03 07:55:40,677 INFO  [BaseTest] password entered 
+2022-03-03 07:55:42,580 INFO  [BaseTest] Login button clicked 
+2022-03-03 07:55:45,585 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 07:55:45,860 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 07:55:47,533 INFO  [BaseTest] Popup is closed 
+2022-03-03 07:55:47,822 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 07:55:47,894 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 07:55:48,009 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 07:55:48,140 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 07:55:48,630 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 07:55:49,290 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52011}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 61a3645804bd82f15fc35bc63a66e277 
+2022-03-03 07:55:49,295 INFO  [BaseTest] Test Log Message 
+2022-03-03 07:57:13,952 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 07:57:14,631 INFO  [BaseTest] Username entered 
+2022-03-03 07:57:14,963 INFO  [BaseTest] password entered 
+2022-03-03 07:57:17,917 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 07:57:18,342 INFO  [BaseTest] Username entered 
+2022-03-03 07:57:18,627 INFO  [BaseTest] password entered 
+2022-03-03 07:57:20,578 INFO  [BaseTest] Login button clicked 
+2022-03-03 07:57:21,005 INFO  [BaseTest] Login button clicked 
+2022-03-03 07:57:21,161 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 07:57:21,746 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 07:57:23,359 INFO  [BaseTest] Popup is closed 
+2022-03-03 07:57:23,458 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 07:57:23,537 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 07:57:23,647 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 07:57:23,791 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 07:57:23,987 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 07:57:24,232 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 07:57:24,350 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 07:57:25,195 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50440}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcebaaa684d506442fbde60168406b18 
+2022-03-03 07:57:25,199 INFO  [BaseTest] Test Log Message 
+2022-03-03 07:57:26,534 INFO  [BaseTest] Popup is closed 
+2022-03-03 07:57:26,665 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 07:57:26,729 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 07:57:26,850 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 07:57:26,981 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 07:57:27,416 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 07:57:28,404 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50484}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cb60e95696011fbf84f327c977dbc876 
+2022-03-03 07:57:28,410 INFO  [BaseTest] Test Log Message 
+2022-03-03 07:59:12,938 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 07:59:13,629 INFO  [BaseTest] Username entered 
+2022-03-03 07:59:13,852 INFO  [BaseTest] password entered 
+2022-03-03 07:59:17,110 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 07:59:17,874 INFO  [BaseTest] Username entered 
+2022-03-03 07:59:18,043 INFO  [BaseTest] password entered 
+2022-03-03 07:59:20,555 INFO  [BaseTest] Login button clicked 
+2022-03-03 07:59:20,705 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 07:59:21,888 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 07:59:23,769 INFO  [BaseTest] Login button clicked 
+2022-03-03 07:59:23,901 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 07:59:24,385 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 07:59:26,335 INFO  [BaseTest] Popup is closed 
+2022-03-03 07:59:26,478 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 07:59:26,687 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 07:59:26,898 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 07:59:27,102 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 07:59:27,367 INFO  [BaseTest] Popup is closed 
+2022-03-03 07:59:27,632 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 07:59:27,640 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 07:59:27,866 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 07:59:27,989 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 07:59:28,178 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 07:59:28,185 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#idcard\-identity"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50828}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a664b176316c11546974b0157e9d6758
+*** Element info: {Using=id, value=idcard-identity} 
+2022-03-03 07:59:28,190 INFO  [BaseTest] Test Log Message 
+2022-03-03 07:59:28,724 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 07:59:29,139 ERROR [BaseTest] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#idcard\-identity"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50872}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d7d6045527350691519222ea9d53bc21
+*** Element info: {Using=id, value=idcard-identity} 
+2022-03-03 07:59:29,144 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:01:56,165 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 08:01:56,466 INFO  [BaseTest] Username entered 
+2022-03-03 08:01:56,668 INFO  [BaseTest] password entered 
+2022-03-03 08:01:56,838 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:02:02,413 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 08:02:02,905 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:02:04,425 INFO  [BaseTest] Popup is closed 
+2022-03-03 08:02:04,703 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:02:04,790 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 08:02:04,904 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 08:02:05,042 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 08:02:05,569 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 08:02:06,896 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51083}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4525eac5a469bfe3bd91b7b789671d39 
+2022-03-03 08:02:06,901 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:02:40,491 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 08:02:40,907 INFO  [BaseTest] Username entered 
+2022-03-03 08:02:41,102 INFO  [BaseTest] password entered 
+2022-03-03 08:02:42,988 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:02:45,874 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 08:02:46,332 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:02:47,755 INFO  [BaseTest] Popup is closed 
+2022-03-03 08:02:47,873 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:02:47,940 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 08:02:48,043 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 08:02:48,206 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 08:02:48,704 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 08:02:51,794 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a7096bd230604f6a63597e0ae92da091 
+2022-03-03 08:02:51,798 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:05:12,064 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 08:05:12,468 INFO  [BaseTest] Username entered 
+2022-03-03 08:05:12,748 INFO  [BaseTest] password entered 
+2022-03-03 08:05:14,651 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:05:17,572 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 08:05:17,880 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:05:19,336 INFO  [BaseTest] Popup is closed 
+2022-03-03 08:05:19,603 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:05:19,687 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 08:05:19,789 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 08:05:19,956 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 08:05:20,563 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 08:05:23,764 INFO  [BaseTest] enter the username 
+2022-03-03 08:05:23,875 INFO  [BaseTest] Enter the password 
+2022-03-03 08:05:24,683 INFO  [BaseTest] click the login button 
+2022-03-03 08:05:26,549 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:05:36,762 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='tryLexDialogX'] (tried for 10 second(s) with 500 milliseconds interval) 
+2022-03-03 08:05:36,767 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:06:31,835 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 08:06:32,235 INFO  [BaseTest] Username entered 
+2022-03-03 08:06:32,473 INFO  [BaseTest] password entered 
+2022-03-03 08:06:34,349 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:06:37,276 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 08:06:37,602 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:06:40,155 INFO  [BaseTest] Popup is closed 
+2022-03-03 08:06:40,409 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:06:40,523 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 08:06:40,626 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 08:06:40,761 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 08:06:41,272 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 08:06:44,460 INFO  [BaseTest] enter the username 
+2022-03-03 08:06:44,517 INFO  [BaseTest] Enter the password 
+2022-03-03 08:06:45,515 INFO  [BaseTest] click the login button 
+2022-03-03 08:06:47,019 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:06:57,168 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='tryLexDialogX'] (tried for 10 second(s) with 500 milliseconds interval) 
+2022-03-03 08:06:57,174 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:08:19,384 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 08:08:19,716 INFO  [BaseTest] Username entered 
+2022-03-03 08:08:20,010 INFO  [BaseTest] password entered 
+2022-03-03 08:08:20,163 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:08:24,652 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 08:08:24,970 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:08:26,539 INFO  [BaseTest] Popup is closed 
+2022-03-03 08:08:26,659 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:08:26,772 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 08:08:26,863 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 08:08:27,009 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 08:08:27,503 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 08:08:30,627 INFO  [BaseTest] enter the username 
+2022-03-03 08:08:30,737 INFO  [BaseTest] Enter the password 
+2022-03-03 08:08:31,547 INFO  [BaseTest] click the login button 
+2022-03-03 08:08:32,946 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:08:43,161 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='tryLexDialogX'] (tried for 10 second(s) with 500 milliseconds interval) 
+2022-03-03 08:08:43,168 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:10:19,646 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 08:10:20,141 INFO  [BaseTest] Username entered 
+2022-03-03 08:10:20,332 INFO  [BaseTest] password entered 
+2022-03-03 08:10:22,173 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:10:24,960 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 08:10:25,274 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:10:26,488 INFO  [BaseTest] Popup is closed 
+2022-03-03 08:10:26,587 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:10:26,670 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 08:10:26,762 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 08:10:27,066 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 08:10:27,779 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 08:10:30,879 INFO  [BaseTest] enter the username 
+2022-03-03 08:10:30,960 INFO  [BaseTest] Enter the password 
+2022-03-03 08:10:33,497 INFO  [BaseTest] click the login button 
+2022-03-03 08:10:34,159 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:10:44,306 ERROR [BaseTest] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //a[@id='tryLexDialogX'] (tried for 10 second(s) with 500 milliseconds interval) 
+2022-03-03 08:10:44,311 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:11:05,868 INFO  [BaseTest] Testcase 22 started 
+2022-03-03 08:11:06,162 INFO  [BaseTest] Username entered 
+2022-03-03 08:11:06,362 INFO  [BaseTest] password entered 
+2022-03-03 08:11:08,205 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:11:10,941 INFO  [BaseTest] validating if hometab is displayed 
+2022-03-03 08:11:11,413 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:11:12,800 INFO  [BaseTest] Popup is closed 
+2022-03-03 08:11:13,143 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:11:13,274 INFO  [BaseTest] Dropdown view is clicked 
+2022-03-03 08:11:13,375 INFO  [BaseTest] My Unread Leads option is selected 
+2022-03-03 08:11:13,527 INFO  [BaseTest] usermenu is clicked 
+2022-03-03 08:11:13,951 INFO  [BaseTest] Logout option is clicked 
+2022-03-03 08:11:17,037 INFO  [BaseTest] enter the username 
+2022-03-03 08:11:17,112 INFO  [BaseTest] Enter the password 
+2022-03-03 08:11:17,902 INFO  [BaseTest] click the login button 
+2022-03-03 08:11:19,506 INFO  [BaseTest] Leads Tab is clicked 
+2022-03-03 08:11:19,590 INFO  [BaseTest] Validating if the Leads home page is displayed 
+2022-03-03 08:11:19,692 INFO  [BaseTest] validating the selected option is selected after logging back to the url again 
+2022-03-03 08:11:20,720 INFO  [BaseTest] click on go button 
+2022-03-03 08:11:20,722 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:28:24,487 INFO  [BaseTest] Testcase 6 started 
+2022-03-03 08:28:25,001 INFO  [BaseTest] Username entered 
+2022-03-03 08:28:25,263 INFO  [BaseTest] password entered 
+2022-03-03 08:28:27,350 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:28:30,337 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-03-03 08:28:32,948 INFO  [BaseTest] My Profile option is clicked 
+2022-03-03 08:28:33,184 INFO  [BaseTest] Edit button is clicked 
+2022-03-03 08:28:33,697 INFO  [BaseTest] About tab is clicked 
+2022-03-03 08:28:33,859 INFO  [BaseTest] Lastname is changed 
+2022-03-03 08:28:34,774 INFO  [BaseTest] Save All Button clicked 
+2022-03-03 08:28:34,775 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:28:35,317 INFO  [BaseTest] Post Link clicked 
+2022-03-03 08:28:35,748 INFO  [BaseTest] Enter text into the Post Editor 
+2022-03-03 08:28:35,883 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-03-03 08:28:35,883 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:28:36,098 INFO  [BaseTest] File Link is clicked 
+2022-03-03 08:28:38,183 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58819}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d20f43460702d99a169cfc1ad003f1b6 
+2022-03-03 08:28:38,186 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:30:09,225 INFO  [BaseTest] Testcase 6 started 
+2022-03-03 08:30:09,475 INFO  [BaseTest] Username entered 
+2022-03-03 08:30:09,617 INFO  [BaseTest] password entered 
+2022-03-03 08:30:09,694 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:30:14,881 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-03-03 08:30:16,693 INFO  [BaseTest] My Profile option is clicked 
+2022-03-03 08:30:16,788 INFO  [BaseTest] Edit button is clicked 
+2022-03-03 08:30:17,590 INFO  [BaseTest] About tab is clicked 
+2022-03-03 08:30:17,983 INFO  [BaseTest] Lastname is changed 
+2022-03-03 08:30:18,881 INFO  [BaseTest] Save All Button clicked 
+2022-03-03 08:30:18,882 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:30:19,592 INFO  [BaseTest] Post Link clicked 
+2022-03-03 08:30:20,038 INFO  [BaseTest] Enter text into the Post Editor 
+2022-03-03 08:30:20,167 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-03-03 08:30:20,167 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:30:20,390 INFO  [BaseTest] File Link is clicked 
+2022-03-03 08:30:22,452 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59006}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 704f464ba8974104b6539445200a5320 
+2022-03-03 08:30:22,457 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:35:49,748 INFO  [BaseTest] Testcase 6 started 
+2022-03-03 08:35:50,178 INFO  [BaseTest] Username entered 
+2022-03-03 08:35:50,407 INFO  [BaseTest] password entered 
+2022-03-03 08:35:52,290 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:35:55,301 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-03-03 08:35:57,635 INFO  [BaseTest] My Profile option is clicked 
+2022-03-03 08:35:57,890 INFO  [BaseTest] Edit button is clicked 
+2022-03-03 08:35:58,604 INFO  [BaseTest] About tab is clicked 
+2022-03-03 08:35:58,778 INFO  [BaseTest] Lastname is changed 
+2022-03-03 08:35:59,607 INFO  [BaseTest] Save All Button clicked 
+2022-03-03 08:35:59,608 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:36:00,208 INFO  [BaseTest] Post Link clicked 
+2022-03-03 08:36:00,649 INFO  [BaseTest] Enter text into the Post Editor 
+2022-03-03 08:36:00,819 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-03-03 08:36:00,819 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:36:01,037 INFO  [BaseTest] File Link is clicked 
+2022-03-03 08:36:03,107 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e725f83fd7d8a7311d23331320e3f6e6 
+2022-03-03 08:36:03,112 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:36:18,991 INFO  [BaseTest] Testcase 6 started 
+2022-03-03 08:36:19,339 INFO  [BaseTest] Username entered 
+2022-03-03 08:36:19,592 INFO  [BaseTest] password entered 
+2022-03-03 08:36:21,372 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:36:24,401 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-03-03 08:36:26,121 INFO  [BaseTest] My Profile option is clicked 
+2022-03-03 08:36:26,219 INFO  [BaseTest] Edit button is clicked 
+2022-03-03 08:36:26,937 INFO  [BaseTest] About tab is clicked 
+2022-03-03 08:36:27,330 INFO  [BaseTest] Lastname is changed 
+2022-03-03 08:36:28,165 INFO  [BaseTest] Save All Button clicked 
+2022-03-03 08:36:28,166 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:36:29,276 INFO  [BaseTest] Post Link clicked 
+2022-03-03 08:36:29,761 INFO  [BaseTest] Enter text into the Post Editor 
+2022-03-03 08:36:29,899 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-03-03 08:36:29,899 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:36:30,145 INFO  [BaseTest] File Link is clicked 
+2022-03-03 08:36:32,213 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c88727d9ed3778bbcdea3adf1bd547a 
+2022-03-03 08:36:32,217 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:42:58,387 INFO  [BaseTest] Testcase 6 started 
+2022-03-03 08:42:58,741 INFO  [BaseTest] Username entered 
+2022-03-03 08:42:58,956 INFO  [BaseTest] password entered 
+2022-03-03 08:43:01,006 INFO  [BaseTest] Login button clicked 
+2022-03-03 08:43:03,952 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-03-03 08:43:06,469 INFO  [BaseTest] My Profile option is clicked 
+2022-03-03 08:43:06,800 INFO  [BaseTest] Edit button is clicked 
+2022-03-03 08:43:07,307 INFO  [BaseTest] About tab is clicked 
+2022-03-03 08:43:07,435 INFO  [BaseTest] Lastname is changed 
+2022-03-03 08:43:08,914 INFO  [BaseTest] Save All Button clicked 
+2022-03-03 08:43:08,915 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:43:09,503 INFO  [BaseTest] Post Link clicked 
+2022-03-03 08:43:09,929 INFO  [BaseTest] Enter text into the Post Editor 
+2022-03-03 08:43:10,045 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-03-03 08:43:10,089 INFO  [BaseTest] Test Log Message 
+2022-03-03 08:43:10,319 INFO  [BaseTest] File Link is clicked 
+2022-03-03 08:43:10,414 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53622}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e21c58a04181a059da304cf238b8194 
+2022-03-03 08:43:10,417 INFO  [BaseTest] Test Log Message 

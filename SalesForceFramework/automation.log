@@ -1,0 +1,377 @@
+2022-02-27 23:42:32,492 INFO  [BaseTest] Testcase 6 started 
+2022-02-27 23:42:32,643 INFO  [BaseTest] Username entered 
+2022-02-27 23:42:32,725 INFO  [BaseTest] password entered 
+2022-02-27 23:42:32,785 INFO  [BaseTest] Login button clicked 
+2022-02-27 23:42:38,469 INFO  [BaseTest] Test Log Message 
+2022-02-27 23:45:13,288 INFO  [BaseTest] Testcase 6 started 
+2022-02-27 23:45:13,405 INFO  [BaseTest] Username entered 
+2022-02-27 23:45:13,485 INFO  [BaseTest] password entered 
+2022-02-27 23:45:15,897 INFO  [BaseTest] Login button clicked 
+2022-02-27 23:45:22,322 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-27 23:45:26,837 INFO  [BaseTest] My Profile option is clicked 
+2022-02-27 23:45:27,227 INFO  [BaseTest] Edit button is clicked 
+2022-02-27 23:45:27,843 INFO  [BaseTest] About tab is clicked 
+2022-02-27 23:45:28,099 INFO  [BaseTest] Lastname is changed 
+2022-02-27 23:45:28,925 INFO  [BaseTest] Save All Button clicked 
+2022-02-27 23:45:29,435 INFO  [BaseTest] Post Link clicked 
+2022-02-27 23:45:52,838 INFO  [BaseTest] Test Log Message 
+2022-02-27 23:52:04,023 INFO  [BaseTest] Testcase 6 started 
+2022-02-27 23:52:04,334 INFO  [BaseTest] Username entered 
+2022-02-27 23:52:04,406 INFO  [BaseTest] password entered 
+2022-02-27 23:52:04,479 INFO  [BaseTest] Login button clicked 
+2022-02-27 23:52:15,509 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-27 23:52:21,309 INFO  [BaseTest] My Profile option is clicked 
+2022-02-27 23:52:21,627 INFO  [BaseTest] Edit button is clicked 
+2022-02-27 23:52:22,173 INFO  [BaseTest] About tab is clicked 
+2022-02-27 23:52:22,477 INFO  [BaseTest] Lastname is changed 
+2022-02-27 23:52:23,327 INFO  [BaseTest] Save All Button clicked 
+2022-02-27 23:52:24,139 INFO  [BaseTest] Post Link clicked 
+2022-02-27 23:53:14,802 INFO  [BaseTest] Test Log Message 
+2022-02-27 23:54:19,773 INFO  [BaseTest] Testcase 6 started 
+2022-02-27 23:54:19,927 INFO  [BaseTest] Username entered 
+2022-02-27 23:54:20,242 INFO  [BaseTest] password entered 
+2022-02-27 23:54:22,765 INFO  [BaseTest] Login button clicked 
+2022-02-27 23:54:29,855 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-27 23:54:36,553 INFO  [BaseTest] My Profile option is clicked 
+2022-02-27 23:54:36,886 INFO  [BaseTest] Edit button is clicked 
+2022-02-27 23:54:37,389 INFO  [BaseTest] About tab is clicked 
+2022-02-27 23:54:37,604 INFO  [BaseTest] Lastname is changed 
+2022-02-27 23:54:38,758 INFO  [BaseTest] Save All Button clicked 
+2022-02-27 23:54:39,453 INFO  [BaseTest] Post Link clicked 
+2022-02-27 23:54:39,749 INFO  [BaseTest] Test Log Message 
+2022-02-27 23:59:48,749 INFO  [BaseTest] Testcase 6 started 
+2022-02-27 23:59:48,885 INFO  [BaseTest] Username entered 
+2022-02-27 23:59:48,955 INFO  [BaseTest] password entered 
+2022-02-27 23:59:51,628 INFO  [BaseTest] Login button clicked 
+2022-02-27 23:59:58,449 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:00:02,627 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:00:03,228 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:00:04,898 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:00:05,141 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:00:06,866 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:00:07,616 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:00:08,024 INFO  [BaseTest] Enter text inthe Psot Editor 
+2022-02-28 00:00:58,232 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:03:55,582 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:03:55,739 INFO  [BaseTest] Username entered 
+2022-02-28 00:03:55,803 INFO  [BaseTest] password entered 
+2022-02-28 00:04:05,638 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:04:05,831 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:04:10,150 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:04:10,231 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:04:11,527 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:04:12,394 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:04:13,843 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:04:15,076 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:04:15,552 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:04:15,629 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:09:38,916 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:09:39,053 INFO  [BaseTest] Username entered 
+2022-02-28 00:09:39,342 INFO  [BaseTest] password entered 
+2022-02-28 00:09:41,874 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:09:49,252 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:09:53,565 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:09:53,642 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:09:54,381 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:09:54,945 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:09:55,696 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:09:56,262 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:09:56,741 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:09:56,768 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:11:04,170 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:11:04,443 INFO  [BaseTest] Username entered 
+2022-02-28 00:11:04,513 INFO  [BaseTest] password entered 
+2022-02-28 00:11:06,558 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:11:13,009 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:11:15,917 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:11:16,362 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:11:18,330 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:11:18,700 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:11:20,170 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:11:20,820 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:11:21,311 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:11:21,465 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:11:21,473 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:18:43,507 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:18:43,674 INFO  [BaseTest] Username entered 
+2022-02-28 00:18:43,743 INFO  [BaseTest] password entered 
+2022-02-28 00:18:46,269 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:18:54,103 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:18:57,783 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:18:57,863 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:18:58,645 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:18:58,916 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:18:59,774 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:19:00,600 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:19:01,140 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:19:01,291 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:19:01,398 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:19:01,407 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:23:25,060 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:23:25,210 INFO  [BaseTest] Username entered 
+2022-02-28 00:23:25,296 INFO  [BaseTest] password entered 
+2022-02-28 00:23:27,574 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:23:34,224 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:23:39,665 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:23:40,212 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:23:40,681 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:23:40,968 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:23:41,764 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:23:43,581 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:23:44,074 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:23:44,206 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:23:44,700 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:23:44,835 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:27:19,177 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:27:19,631 INFO  [BaseTest] Username entered 
+2022-02-28 00:27:19,684 INFO  [BaseTest] password entered 
+2022-02-28 00:27:28,527 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:27:28,729 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:27:35,672 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:27:35,761 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:27:36,376 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:27:36,767 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:27:38,053 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:27:38,868 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:27:39,449 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:27:39,638 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:27:40,835 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:27:40,941 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:28:53,928 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:28:54,008 INFO  [BaseTest] Username entered 
+2022-02-28 00:28:54,473 INFO  [BaseTest] password entered 
+2022-02-28 00:28:56,893 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:29:02,718 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:29:08,495 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:29:08,702 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:29:10,468 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:29:10,751 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:29:11,824 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:29:14,281 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:29:14,821 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:29:14,977 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:29:15,594 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:29:24,272 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 00:29:24,282 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:29:48,672 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:29:48,806 INFO  [BaseTest] Username entered 
+2022-02-28 00:29:48,875 INFO  [BaseTest] password entered 
+2022-02-28 00:29:52,008 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:30:04,355 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:30:09,603 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:30:09,681 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:30:10,613 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:30:10,855 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:30:11,948 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:30:12,699 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:30:13,103 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:30:13,234 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:30:13,311 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:30:13,403 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 00:30:13,408 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:31:29,696 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:31:29,779 INFO  [BaseTest] Username entered 
+2022-02-28 00:31:29,852 INFO  [BaseTest] password entered 
+2022-02-28 00:31:41,483 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:31:41,942 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:31:46,782 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:31:47,088 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:31:47,536 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:31:47,751 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:31:48,606 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:31:49,160 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:31:49,669 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:31:49,872 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:31:50,048 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:31:50,189 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 00:31:50,195 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:37:12,320 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:37:12,429 INFO  [BaseTest] Username entered 
+2022-02-28 00:37:12,483 INFO  [BaseTest] password entered 
+2022-02-28 00:37:14,853 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:37:24,067 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:37:30,985 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:37:31,118 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:37:35,583 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:37:35,800 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:37:36,611 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:37:37,175 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:37:37,532 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:37:37,646 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:37:37,729 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:37:37,835 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 00:37:37,869 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:41:14,272 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:41:14,611 INFO  [BaseTest] Username entered 
+2022-02-28 00:41:14,710 INFO  [BaseTest] password entered 
+2022-02-28 00:41:17,563 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:41:24,854 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:41:30,040 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:41:30,270 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:41:30,838 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:41:31,081 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:41:31,940 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:41:32,616 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:41:33,122 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:41:33,266 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:41:33,394 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:41:33,518 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 00:41:33,640 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:52:14,933 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:52:15,243 INFO  [BaseTest] Username entered 
+2022-02-28 00:52:15,364 INFO  [BaseTest] password entered 
+2022-02-28 00:52:17,938 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:52:23,596 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:52:28,059 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:52:28,342 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:52:28,825 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:52:29,146 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:52:30,022 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:52:30,653 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:52:31,162 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:52:31,375 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:52:31,922 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:53:22,186 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:54:09,417 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:54:09,728 INFO  [BaseTest] Username entered 
+2022-02-28 00:54:09,799 INFO  [BaseTest] password entered 
+2022-02-28 00:54:11,896 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:54:17,471 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:54:20,687 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:54:21,103 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:54:21,565 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:54:21,851 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:54:22,630 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:54:24,386 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:54:24,854 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:54:25,056 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:54:25,220 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:54:25,311 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 00:54:25,427 INFO  [BaseTest] select from from computer 
+2022-02-28 00:54:25,435 INFO  [BaseTest] Test Log Message 
+2022-02-28 00:57:48,836 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 00:57:48,981 INFO  [BaseTest] Username entered 
+2022-02-28 00:57:49,043 INFO  [BaseTest] password entered 
+2022-02-28 00:57:58,620 INFO  [BaseTest] Login button clicked 
+2022-02-28 00:57:58,788 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 00:58:03,913 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 00:58:04,009 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 00:58:04,659 INFO  [BaseTest] About tab is clicked 
+2022-02-28 00:58:05,012 INFO  [BaseTest] Lastname is changed 
+2022-02-28 00:58:05,785 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 00:58:06,590 INFO  [BaseTest] Post Link clicked 
+2022-02-28 00:58:07,026 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 00:58:07,162 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:58:07,329 INFO  [BaseTest] File Link is clciked 
+2022-02-28 00:58:07,404 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 00:58:07,539 INFO  [BaseTest] select file from computer 
+2022-02-28 00:58:07,686 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 00:58:07,692 INFO  [BaseTest] Test Log Message 
+2022-02-28 12:56:54,138 INFO  [BaseTest] Testcase3 Started 
+2022-02-28 12:56:54,645 INFO  [BaseTest] username and password entered 
+2022-02-28 12:56:54,758 INFO  [BaseTest] rememeberme box checked 
+2022-02-28 12:56:56,605 INFO  [BaseTest] login button clicked 
+2022-02-28 12:57:00,421 INFO  [BaseTest] Test Log Message 
+2022-02-28 12:58:26,307 INFO  [BaseTest] Testcase3 Started 
+2022-02-28 12:58:26,861 INFO  [BaseTest] username and password entered 
+2022-02-28 12:58:26,954 INFO  [BaseTest] rememeberme box checked 
+2022-02-28 12:58:27,003 INFO  [BaseTest] login button clicked 
+2022-02-28 12:58:32,616 INFO  [BaseTest] Checking if homepage is displayed 
+2022-02-28 12:58:33,407 INFO  [BaseTest] home page opened and usermenu clicked 
+2022-02-28 12:58:34,016 INFO  [BaseTest] logout clicked 
+2022-02-28 12:58:37,157 INFO  [BaseTest] old username is compared with new username 
+2022-02-28 12:58:37,162 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:30:00,326 INFO  [BaseTest] Testcase1 started 
+2022-02-28 13:30:00,616 INFO  [BaseTest] username entered 
+2022-02-28 13:30:00,719 INFO  [BaseTest] password cleared 
+2022-02-28 13:30:00,870 INFO  [BaseTest] login button clicked 
+2022-02-28 13:30:01,169 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:33:36,349 INFO  [BaseTest] Testcase3 Started 
+2022-02-28 13:33:36,612 INFO  [BaseTest] username and password entered 
+2022-02-28 13:33:36,688 INFO  [BaseTest] rememeberme box checked 
+2022-02-28 13:33:38,605 INFO  [BaseTest] login button clicked 
+2022-02-28 13:33:44,518 INFO  [BaseTest] Checking if homepage is displayed 
+2022-02-28 13:33:44,648 INFO  [BaseTest] home page opened and usermenu clicked 
+2022-02-28 13:33:46,563 INFO  [BaseTest] logout clicked 
+2022-02-28 13:33:47,756 INFO  [BaseTest] old username is compared with new username 
+2022-02-28 13:33:47,760 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:39:47,614 INFO  [BaseTest] Testcase3 Started 
+2022-02-28 13:39:47,852 INFO  [BaseTest] username and password entered 
+2022-02-28 13:39:48,143 INFO  [BaseTest] rememeberme box checked 
+2022-02-28 13:39:48,221 INFO  [BaseTest] login button clicked 
+2022-02-28 13:39:53,245 INFO  [BaseTest] Checking if homepage is displayed 
+2022-02-28 13:39:53,891 INFO  [BaseTest] home page opened and usermenu clicked 
+2022-02-28 13:39:54,589 INFO  [BaseTest] logout clicked 
+2022-02-28 13:39:55,881 INFO  [BaseTest] old username is compared with new username 
+2022-02-28 13:39:55,884 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:40:56,197 INFO  [BaseTest] Testcase 5 started 
+2022-02-28 13:40:56,484 INFO  [BaseTest] Username entered 
+2022-02-28 13:40:56,660 INFO  [BaseTest] password entered 
+2022-02-28 13:40:58,650 INFO  [BaseTest] Login button clicked 
+2022-02-28 13:41:01,436 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 13:43:10,150 INFO  [BaseTest] Testcase 5 started 
+2022-02-28 13:43:10,263 INFO  [BaseTest] Username entered 
+2022-02-28 13:43:10,355 INFO  [BaseTest] password entered 
+2022-02-28 13:43:10,820 INFO  [BaseTest] Login button clicked 
+2022-02-28 13:43:18,172 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 13:43:18,313 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:46:01,793 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 13:46:02,170 INFO  [BaseTest] Username entered 
+2022-02-28 13:46:02,350 INFO  [BaseTest] password entered 
+2022-02-28 13:46:02,493 INFO  [BaseTest] Login button clicked 
+2022-02-28 13:46:07,022 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 13:46:11,069 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 13:46:11,788 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 13:46:12,316 INFO  [BaseTest] About tab is clicked 
+2022-02-28 13:46:12,513 INFO  [BaseTest] Lastname is changed 
+2022-02-28 13:46:13,279 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 13:46:13,778 INFO  [BaseTest] Post Link clicked 
+2022-02-28 13:46:14,226 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 13:46:14,365 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 13:46:14,452 INFO  [BaseTest] File Link is clciked 
+2022-02-28 13:46:14,503 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 13:46:14,644 INFO  [BaseTest] select file from computer 
+2022-02-28 13:46:14,867 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 13:46:14,873 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:50:12,887 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 13:50:13,215 INFO  [BaseTest] Username entered 
+2022-02-28 13:50:13,346 INFO  [BaseTest] password entered 
+2022-02-28 13:50:23,083 INFO  [BaseTest] Login button clicked 
+2022-02-28 13:50:23,852 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 13:50:26,459 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 13:50:26,542 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 13:50:27,204 INFO  [BaseTest] About tab is clicked 
+2022-02-28 13:50:27,441 INFO  [BaseTest] Lastname is changed 
+2022-02-28 13:50:28,198 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 13:50:28,199 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:51:23,804 INFO  [BaseTest] Post Link clicked 
+2022-02-28 13:51:35,342 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 13:51:58,068 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 13:52:28,805 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:52:50,518 INFO  [BaseTest] File Link is clciked 
+2022-02-28 13:53:01,440 INFO  [BaseTest] Upload file from computer link is clicked 
+2022-02-28 13:53:22,291 INFO  [BaseTest] select file from computer 
+2022-02-28 13:55:20,790 INFO  [BaseTest] Testcase 6 started 
+2022-02-28 13:55:21,049 INFO  [BaseTest] Username entered 
+2022-02-28 13:55:21,191 INFO  [BaseTest] password entered 
+2022-02-28 13:55:23,203 INFO  [BaseTest] Login button clicked 
+2022-02-28 13:55:27,473 INFO  [BaseTest] Usermenu dropdown clicked 
+2022-02-28 13:55:30,409 INFO  [BaseTest] My Profile option is clicked 
+2022-02-28 13:55:31,098 INFO  [BaseTest] Edit button is clicked 
+2022-02-28 13:55:31,606 INFO  [BaseTest] About tab is clicked 
+2022-02-28 13:55:31,891 INFO  [BaseTest] Lastname is changed 
+2022-02-28 13:55:32,980 INFO  [BaseTest] Save All Button clicked 
+2022-02-28 13:55:32,981 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:55:33,582 INFO  [BaseTest] Post Link clicked 
+2022-02-28 13:55:34,056 INFO  [BaseTest] Enter text into the Post Editor 
+2022-02-28 13:55:34,214 INFO  [BaseTest] Share button is clicked and message is posted 
+2022-02-28 13:55:34,214 INFO  [BaseTest] Test Log Message 
+2022-02-28 13:55:34,551 INFO  [BaseTest] File Link is clciked 
+2022-02-28 13:55:34,638 ERROR [BaseTest] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LVA07G2U', ip: '192.168.4.98', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64137}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b24e1c25ffcb5e2db2dbbe6972bb5ea3 
+2022-02-28 13:55:34,644 INFO  [BaseTest] Test Log Message 

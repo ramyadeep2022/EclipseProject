@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Regression Suite">
+
+
+ 
+<parameter name="url" value="https://login.salesforce.com"></parameter>
+<parameter name="username" value="ramya@kopp.com"></parameter>
+<parameter name="password" value="deep@2022"></parameter>
+<parameter name="browser" value="Chrome"></parameter>
+
+<listeners>
+<listener class-name="com.training.listeners.TestListener"></listener>
+</listeners>
+
+ <test name = 'Login'>
+ 	<classes>
+ 		<class name = "com.training.test.LoginTest"/>
+ 		<class name = "com.training.test.HomeTest"/>
+ 		<class name = "com.training.test.UserMenuTest"/>
+ 		<class name = "com.training.test.AccountsTest"/>
+ 	</classes>
+ </test> 
+ 
+ 
+
+
+
+
+</suite>
